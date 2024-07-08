@@ -1,1 +1,1 @@
-# Snack-Game
+This is my first project with GUI SWING. I did this one before I built the Pong Game. It was kind of insteresting project to approach to GUI. The idea for this project was inspired by "Bro Code": https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=1867s. 
